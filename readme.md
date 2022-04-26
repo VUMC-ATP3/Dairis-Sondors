@@ -3,3 +3,6 @@
 This is second comit test.
 
 Izmainīts
+
+
+this is change from my branch
